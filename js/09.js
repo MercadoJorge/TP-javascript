@@ -1,0 +1,5 @@
+const frase = prompt(`Ingresa una frase`)
+document.write(frase.charAt(1 ))
+document.write(frase.charAt(3 ))
+document.write(frase.charAt(6))
+document.write(frase.charAt(9))
